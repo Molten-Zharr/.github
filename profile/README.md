@@ -6,8 +6,8 @@
 
 <p>
   <a href="manifesto/README.md"><img src="assets/badges/manifesto.svg" height="30" alt="Manifesto"></a>
-  <a href="#projects"><img src="assets/badges/projects.svg" height="30" alt="Projects"></a>
-  <a href="#join-us"><img src="assets/badges/join.svg" height="30" alt="Join us"></a>
+  <a href="#user-content-projects"><img src="assets/badges/projects.svg" height="30" alt="Projects"></a>
+  <a href="#user-content-join-us"><img src="assets/badges/join.svg" height="30" alt="Join us"></a>
 </p>
 
 # <img src="assets/choice-and-ai.svg" width="800" alt="WE HAVE MADE OUR CHOICE">

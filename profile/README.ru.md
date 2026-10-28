@@ -6,8 +6,8 @@
 
 <p>
   <a href="manifesto/README.ru.md"><img src="assets/badges/manifesto.svg" height="30" alt="Манифест"></a>
-  <a href="#проекты"><img src="assets/badges/projects.svg" height="30" alt="Проекты"></a>
-  <a href="#присоединиться"><img src="assets/badges/join.svg" height="30" alt="Присоединиться"></a>
+  <a href="#user-content-проекты"><img src="assets/badges/projects.svg" height="30" alt="Проекты"></a>
+  <a href="#user-content-присоединиться"><img src="assets/badges/join.svg" height="30" alt="Присоединиться"></a>
 </p>
 
 # МЫ СДЕЛАЛИ СВОЙ ВЫБОР
